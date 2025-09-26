@@ -1,0 +1,4 @@
+Name: Aron Maina
+Skills: Python, Data Analysis, SQL
+Education: Bachelor of Science in Computer Science
+Experience: 4 years as Data Analyst

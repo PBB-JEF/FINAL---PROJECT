@@ -1,0 +1,4 @@
+Name: caro Githinji
+Skills: Python, Data Analysis, SQL
+Education: Bachelor of Science in Computer Science
+Experience: 6 years as Data Analyst

@@ -1,0 +1,6 @@
+applicant_id,full_name,email,program,years_experience,highest_edu,skills_alignment,assessments_norm,semantic_similarity,education_level_norm
+1,Jane Doe,jane@example.com,Data,2,Bachelor,0.85,0.70,0.75,0.60
+2,John Smith,john@example.com,Cloud,4,Master,0.70,0.80,0.65,0.80
+3,Aisha Kamau,aisha@example.com,Product,1,Bachelor,0.60,0.55,0.50,0.60
+4,David Okoro,david@example.com,Data,3,Diploma,0.75,0.65,0.70,0.50
+5,Grace Njeri,grace@example.com,Cloud,5,Bachelor,0.90,0.88,0.82,0.60

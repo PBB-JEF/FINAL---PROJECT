@@ -1,0 +1,4 @@
+Name: Jane Doe
+Skills: Python, Data Analysis, SQL
+Education: Bachelor of Science in Computer Science
+Experience: 2 years as Data Analyst
