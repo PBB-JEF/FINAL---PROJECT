@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node (if you ever add React or npm stuff)
+node_modules/
+
+# Environment files
+*.env
+
+# Streamlit
+.streamlit/
+
+# VSCode/IDE
+.vscode/
+.idea/
