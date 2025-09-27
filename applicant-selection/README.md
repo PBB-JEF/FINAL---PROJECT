@@ -14,6 +14,35 @@ This project is an **AI-powered recruitment assistant** that helps HR teams mana
 It provides a **Streamlit frontend** for interaction, a **FastAPI backend** for business logic, and a **database** for storing applicant data and resumes.  
 The backend integrates with **OpenAI** to analyze resumes and assist in candidate selection.
 
+PROJECT LINKS
+
+PITCH DECK LINK: https://www.canva.com/design/DAGxdQknWks/Je0ChnlGqcfjwFsXVMOQ5A/edit?utm_content=DAGxdQknWks&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+ 
+
+GITHUB REPOSITORY LINK: https://github.com/PBB-JEF/FINAL---PROJECT.git
+
+DEPLOYMET LINK: 
+
+Streamlit Cloud link : https://final---project-qohb62jqyc5msfczwhzqi4.streamlit.app/
+
+FRONTEND:
+Local url: http://localhost:8501
+
+Network url: http://10.194.187.45:8501
+
+BACKEND:
+Backend runs at: http://127.0.0.1:8000
+
+Test backend API
+curl http://127.0.0.1:8000/applicants
+
+API runs at: http://127.0.0.1:8000
+
+Docs available at: http://127.0.0.1:8000/docs
+
+ENDPOINTS:
+Runs at: http://127.0.0.1:8000/docs#/default/score_applicant_score_post
+
 ---
 
 ## 🚀 Features
@@ -26,7 +55,7 @@ The backend integrates with **OpenAI** to analyze resumes and assist in candidat
 
 ---
 
-
+PROJECT STRUCTURE
 
 
 │── applicant-selection/
@@ -167,3 +196,6 @@ Pull requests are welcome. For major changes, open an issue first to discuss wha
 📜 License
 
 This project is licensed under the MIT License.
+
+GEOFFREY ODHIAMBO
+STUDENT
